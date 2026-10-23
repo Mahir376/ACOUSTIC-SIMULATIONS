@@ -8,5 +8,5 @@ Bachelor's thesis, Tampere University. Supervisors: Archontis Politis and France
 | `results/` | CSV files and summaries of the finished experiments |
 | `thesis/` | the LaTeX source of the thesis (TAU template) |
 
-The pipeline code was developed with AI-assisted tools (Cursor, Claude) under the author's direction;
+The pipeline code was developed with AI-assisted IDE (Cursor) under the author's direction;
 the research design, the experiments and their interpretation are the author's own.
